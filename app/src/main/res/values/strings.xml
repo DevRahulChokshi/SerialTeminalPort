@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SerialPort4</string>
+    <string name="serial_port">Serial Port</string>
+    <string name="attch_device">USB Serial Terminal</string>
+    <string name="txtAttached_USB_Device">Attached Device</string>
+    <string name="none_Device">No device found</string>
+    <string name="main_activity_title">Horizon Electro</string>
+    <string name="btnNameOne">START</string>
+    <string name="btnNameTwo">STOP</string>
+    <string name="btnNameUp">UP</string>
+    <string name="btnNameDown">Down</string>
+    <string name="btnNameSet">SET</string>
+    <string name="btnNameReset">RESET</string>
+    <string name="strEdtMessage">Send Message</string>
+</resources>
